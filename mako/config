@@ -1,1 +1,15 @@
-/nix/store/krgiijq7w3il9apjaminjznnvffxcm6f-home-manager-files/.config/mako/config
+anchor=top-right
+background-color=#1e1e2ee6
+border-color=#89b4fa
+border-radius=0
+border-size=2
+default-timeout=5000
+font=TerminessNerdFont 10
+height=110
+ignore-timeout=0
+layer=overlay
+margin=10
+padding=12
+progress-color=#313244
+text-color=#cdd6f4
+width=320
